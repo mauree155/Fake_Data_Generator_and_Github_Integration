@@ -90,8 +90,10 @@ Once executed, the script will create a file named fake_data.csv in the same pro
  - Email Address
  - Job Title
  - City
-You can open this file using Excel, Google Sheets, or any spreadsheet tool to view the data in a structured table format.
-you can access the script 
+
+You can open this file using Excel, Google Sheets, or any spreadsheet tool to view the data in a structured table format. Personally, I prefer using Microsoft SQL Server to open the file.
+
+Kindly access the script <a href="https://github.com/mauree155/Fake_Data_Generator_and_Github_Integration/blob/main/Test_Libraries.ipynb">Here</a> 
 
 ## Sample Output
 Below is a preview of what the generated fake dataset looks like after running the script. The data is randomly generated using the Faker library and formatted to resemble real-world information without compromising any actual identities.
