@@ -3,9 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore CSV outputs
-*.csv
-
 # Ignore VS Code settings
 .vscode/
 
