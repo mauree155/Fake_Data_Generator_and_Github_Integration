@@ -73,11 +73,11 @@ You can use any Python-friendly environment. This project was developed using Vi
 - Locate the Script
 Look for the main Python file — typically named something like:
 
-                **fake_data_generator.py** for a script file
+                fake_data_generator.py** for a script file
 
    or              
                
-                 **test_libraries.ipynb** if you're working in Jupyter Notebook
+                 test_libraries.ipynb** if you're working in Jupyter Notebook
 
 This file contains the full code that generates fake data, formats it, and exports it into a CSV file.
 
