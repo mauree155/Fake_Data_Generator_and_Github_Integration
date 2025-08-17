@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore CSV outputs
+*.csv
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files (Windows/Mac)
+.DS_Store
+Thumbs.db
