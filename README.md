@@ -105,7 +105,7 @@ You can also open the file in VS Code by typing in:
 
 Kindly access the script <a href="https://github.com/mauree155/Fake_Data_Generator_and_Github_Integration/blob/main/Test_Libraries.ipynb">Here</a> 
 
-This is the <a href="https://github.com/mauree155/Fake_Data_Generator_and_Github_Integration/blob/main/fake_data.csv">Dataset</a>
+This is the <a href="https://github.com/mauree155/Fake_Data_Generator_and_Github_Integration/blob/main/data/fake_data.csv">Dataset</a>
 
 
 ## Sample Output
