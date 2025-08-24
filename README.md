@@ -3,12 +3,11 @@
 <img src="https://github.com/user-attachments/assets/815162a2-3601-4ca4-a78e-059a1d3a76bd" alt="Sample Output" width="800"/>
 
 ## Table of Contents
-1. [Project Overview](project-overview)
-2. [Setup Instructions](setup-instructions)
-3. [How to Run the Script](how-to-run-the-script)
-4. [Sample Output](sample-output)
-5. [Video Walkthrough Link](video-walkthrough-link)
-
+1. [Project Overview](#project-overview)
+2. [Setup Instructions](#setup-instructions)
+3. [How to Run the Script](#how-to-run-the-script)
+4. [Sample Output](#sample-output)
+5. [Video Walkthrough Link](#video-walkthrough-link)
 
 ## Project Overview
 In the world of data science, high-quality datasets form the foundation for insightful analysis, model training, and system testing. However, when working with sensitive information, such as personal details, privacy becomes a critical concern. Due to real-world constraints like **data protection laws**, **ethical considerations**, and **privacy regulations**, access to actual user data is often restricted. This is where synthetic (fake) data becomes a powerful and safe alternative.
