@@ -44,11 +44,10 @@ To install the required libraries, open your terminal (or command prompt) and ru
 
             pip install faker pandas
 
-- You can either clone this repository using Git:
+- Clone the repository using Git to get all the files and folders intact:
 
             git clone https://github.com/mauree155/Fake_Data_Generator_and_Github_Integration.git
 
-Or you can go to the GitHub page and click “Download ZIP” to save the project on your computer.
 -  Navigate to the Project Folder
 Using the terminal, navigate to the folder where your Python script is saved:
 
